@@ -1,0 +1,4 @@
+data/
+*.sav
+*.spv
+.DS_Store
